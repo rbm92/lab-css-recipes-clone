@@ -57,3 +57,19 @@ img {
 hr {
   width: 90%;
 }
+
+.img {
+  margin: 20px auto;
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+svg {
+  width: 24px;
+}
+
+.gray {
+  color: #808080;
+}
